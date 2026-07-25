@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StandardVisitor
+comment1.params=visitorId\ fullName\ gender\ contactNumber\ registrationDate\ ticketPrice\ ticketType
+comment1.target=StandardVisitor(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment10.params=
+comment10.target=boolean\ isDiscountUpgraded()
+comment2.params=
+comment2.target=boolean\ checkDiscountUpgrade()
+comment3.params=name\ price
+comment3.target=java.lang.String\ buyProduct(java.lang.String,\ double)
+comment4.params=
+comment4.target=double\ calculateDiscount()
+comment5.params=
+comment5.target=double\ calculateRewardPoint()
+comment6.params=
+comment6.target=void\ terminateVisitor()
+comment7.params=name\ reason
+comment7.target=java.lang.String\ cancelProduct(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ generateBill()
+comment9.params=
+comment9.target=void\ display()
+numComments=11
